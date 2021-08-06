@@ -4,8 +4,8 @@
 
 <div>
   <a href="https://github.com/victorkolis">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=victorkolis&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorkolis&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=victorkolis&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorkolis&layout=compact&langs_count=7&theme=monokai"/>
 </div>
 <div> 
   <img align="center" src="https://icongr.am/devicon/linux-original.svg?size=128&color=currentColorr" height="30" width="40" alt="tux"/>
