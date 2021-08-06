@@ -1,6 +1,6 @@
 # BE WELCOME
 
-## 💬 SPOKEN LANGUAGES: English, Portuguese
+### 💬 SPOKEN LANGUAGES: English, Portuguese
 
 
 <!--
