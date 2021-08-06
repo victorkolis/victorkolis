@@ -3,9 +3,9 @@
 ### 💬 SPOKEN LANGUAGES: English, Portuguese
 
 <div>
-  <a href="https://github.com/Ana-Jorge">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Ana-Jorge&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ana-Jorge&layout=compact&langs_count=7&theme=dracula"/>
+  <a href="https://github.com/victorkolis">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=victorkolis&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorkolis&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div> 
   <img align="center" src="https://icongr.am/devicon/html5-original.svg?size=128&color=currentColor" height="30" width="40" alt="html"/>
@@ -17,8 +17,8 @@
 
   ##
 <div>
-  <a href = "mailto:anadegj@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/ana-jessica-jorge/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:victorkolis@protonmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/victorkolis/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
 <!--
