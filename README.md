@@ -8,10 +8,14 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorkolis&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div> 
+  <img align="center" src="https://icongr.am/devicon/linux-original.svg?size=128&color=currentColorr" height="30" width="40" alt="tux"/>
+  <img align="center" src="https://icongr.am/devicon/gitlab-original.svg?size=128&color=currentColor" height="30" width="40" alt="gitlab"/>
+  <img align="center" src="https://icongr.am/devicon/python-original.svg?size=128&color=currentColor" height="30" width="40" alt="python"/>
+  <img align="center" src="https://icongr.am/devicon/pycharm-original.svg?size=128&color=currentColor" height="30" width="40" alt="pycharm"/>
+  <img align="center" src="https://icongr.am/devicon/docker-original.svg?size=128&color=currentColor" height="30" width="40" alt="docker"/>
+  <img align="center" src="https://icongr.am/devicon/c-original.svg?size=128&color=currentColor" height="30" width="40" alt="C"/>
   <img align="center" src="https://icongr.am/devicon/html5-original.svg?size=128&color=currentColor" height="30" width="40" alt="html"/>
   <img align="center" src="https://icongr.am/devicon/css3-original.svg?size=128&color=currentColor" height="30" width="40" alt="css"/>
-  <img align="center" src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor" height="30" width="40" alt="javascript"/>
-  <img align="center" src="https://icongr.am/devicon/java-original.svg?size=128&color=currentColor" height="30" width="40" alt="java"/>
 </div>
 
 
