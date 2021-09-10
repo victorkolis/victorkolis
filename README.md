@@ -12,7 +12,6 @@
   <img align="center" src="https://icongr.am/devicon/gitlab-original.svg?size=128&color=currentColor" height="30" width="40" alt="gitlab"/>
   <img align="center" src="https://icongr.am/devicon/python-original.svg?size=128&color=currentColor" height="30" width="40" alt="python"/>
   <img align="center" src="https://icongr.am/devicon/pycharm-original.svg?size=128&color=currentColor" height="30" width="40" alt="pycharm"/>
-  <img align="center" src="https://icongr.am/devicon/docker-original.svg?size=128&color=currentColor" height="30" width="40" alt="docker"/>
   <img align="center" src="https://icongr.am/devicon/c-original.svg?size=128&color=currentColor" height="30" width="40" alt="C"/>
   <img align="center" src="https://icongr.am/devicon/wordpress-plain.svg?size=128&color=currentColor" height="30" width="40" alt="wordpress"/>
   <img align="center" src="https://icongr.am/devicon/html5-original.svg?size=128&color=currentColor" height="30" width="40" alt="html"/>
