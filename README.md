@@ -7,7 +7,7 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=victorkolis&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorkolis&layout=compact&langs_count=7&theme=monokai"/>
 </div>
-<div> 
+<!-- <div> 
   <img align="center" src="https://icongr.am/devicon/linux-original.svg?size=128&color=currentColorr" height="30" width="40" alt="tux"/>
   <img align="center" src="https://icongr.am/devicon/gitlab-original.svg?size=128&color=currentColor" height="30" width="40" alt="gitlab"/>
   <img align="center" src="https://icongr.am/devicon/python-original.svg?size=128&color=currentColor" height="30" width="40" alt="python"/>
@@ -16,7 +16,7 @@
   <img align="center" src="https://icongr.am/devicon/wordpress-plain.svg?size=128&color=currentColor" height="30" width="40" alt="wordpress"/>
   <img align="center" src="https://icongr.am/devicon/html5-original.svg?size=128&color=currentColor" height="30" width="40" alt="html"/>
   <img align="center" src="https://icongr.am/devicon/css3-original.svg?size=128&color=currentColor" height="30" width="40" alt="css"/>
-</div>
+</div> -->
 
 
   ### SOCIAL
