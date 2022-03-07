@@ -36,6 +36,8 @@
   <a href="https://github.com/victorkolis" target="_blank"><img src="https://img.shields.io/badge/Firefox_Browser-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white" target="_blank"></a>
   <a href="https://github.com/victorkolis" target="_blank"><img src="https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white" target="_blank"></a>
   <a href="https://github.com/victorkolis" target="_blank"><img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" target="_blank"></a>
+    <a href="https://github.com/victorkolis" target="_blank"><img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green" target="_blank"></a>
+  <a href="https://github.com/victorkolis" target="_blank"><img src="https://img.shields.io/badge/Cybersecurity-143?style=for-the-badge&logo=linux&logoColor=black&color=black&labelColor=white" target="_blank"></a>
 </div>
 
 <!--
